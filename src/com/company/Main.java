@@ -11,6 +11,9 @@ public class Main {
         car.engineCapacity="V12";
         car.doors="7";
 
+        System.out.println("welcome to my car");
+        System.out.println("the raido is set to 80mhz");
+        System.out.println("turn on the air conditioner");
 
     }
 }
